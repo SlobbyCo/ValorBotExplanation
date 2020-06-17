@@ -1,6 +1,6 @@
 # Rito/Valor Bot
 
-Riot/Valor Bot is a Discord Bot designed to provide an all-in-one experience for Riot's Games. We designed it in order 
+Rito/Valor Bot is a Discord Bot designed to provide an all-in-one experience for Riot's Games. We designed it in order 
 to create a single bot that can cover all of your Riot Games needs without the hassle! 
 
 Functionality:
